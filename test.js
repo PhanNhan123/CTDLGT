@@ -190,4 +190,4 @@ let clara = new Cats("clara",33,"indigo");
 let huts = new Dogs("clara",33,"indigo");
 console.log(clara.sing())
 console.log(huts.sing())
-
+ 
